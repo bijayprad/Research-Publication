@@ -6,7 +6,7 @@ Dear Friends, Please find the Link for the Slide
 
 [Click for Slide 3](https://docs.google.com/presentation/d/e/2PACX-1vQIuMP1kkquKQwkvucovky8Z9JpzgiKRxPS-5szkmQeJTlqwpk1Tn5GFMSiZDwo4IWV3rcIyYWWeAbK/pub?start=false&loop=false&delayms=3000)
 
-[Endnote Software](https://bijaylal.wordpress.com/)
+[Endnote Software](https://drive.google.com/file/d/1z6zS2PGsAzHIyRBmYDdG_Pkrme0mGz2P/view?pli=1)
 
 [Click for Slide 4](https://docs.google.com/presentation/d/e/2PACX-1vQN2ipDsLMKzmrn3BUHA5cG0QIiHGrIvlxKG8e0IXameaJhhZ2iuogcdCtlrov-r7veW201QUi6yUnf/pub?start=false&loop=false&delayms=3000)
 
