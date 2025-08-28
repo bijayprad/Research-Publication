@@ -1,4 +1,6 @@
-Dear Friends, Please find the Link for the Slide
+Dear Friends, Please find the Link for the Slide and Software
+
+Day I
 
 [Click for Slide 1](https://docs.google.com/presentation/d/e/2PACX-1vSLYBzlIVqg3djMz0t9H0Z8gDYI5WEZzVumSoCLjA3gpVf4dy1zMznYzXgNVnzxHrMrR-Z0wLuRzahe/pub?start=false&loop=false&delayms=3000)
 
@@ -10,3 +12,8 @@ Dear Friends, Please find the Link for the Slide
 
 [Click for Slide 4](https://docs.google.com/presentation/d/e/2PACX-1vQN2ipDsLMKzmrn3BUHA5cG0QIiHGrIvlxKG8e0IXameaJhhZ2iuogcdCtlrov-r7veW201QUi6yUnf/pub?start=false&loop=false&delayms=3000)
 
+Day II
+
+[Slide 5]()
+[Slide 6]()
+[Slide 7]()
