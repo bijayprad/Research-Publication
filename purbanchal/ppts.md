@@ -15,5 +15,5 @@ Day I
 Day II
 
 [Slide 5](https://docs.google.com/presentation/d/e/2PACX-1vR8Zdi6fdFAgmSMbbWMZfX36G9MWUEtndrtx9zOBWKs0utcL6ToOVOjwWjBfBXwxyLSucHccfRPiZDz/pub?start=false&loop=false&delayms=3000)
-[Slide 6]()
-[Slide 7]()
+[Slide 6](https://docs.google.com/presentation/d/e/2PACX-1vSoI6shJ_8rzNzeNYnlW7FAC2q876arfpmuuBLY1dq-tabSHSccQIAaQbz1NS-_eoKYpp7dyrkfuYsI/pub?start=false&loop=false&delayms=3000)
+[Slide 7](https://docs.google.com/presentation/d/e/2PACX-1vSOXhrpGyL6u05cHwLWIlezqDzsCm6F0QAZ9FvfP4y519wDFDxuFdS0zuo1LdUnhTg51qGRUPtugn1M/pub?start=false&loop=false&delayms=3000)
